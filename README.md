@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>¡Hola! Soy Jose <br/><a>Programador</a>, <a>Gamer</a></h1>
 
-<!--
-**Jose9249/Jose9249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛠 Sobre mí:</h2>
+Soy un desarrollador joven con pasión por crear proyectos únicos. Me gusta experimentar, aprender cosas nuevas por el camino 😅.
 
-Here are some ideas to get you started:
+📍 Sevilla | 🏫 Estudiante en San Francisco de Paula  
+💻 Programando desde pequeño. Jugando con código y malabareando con bugs 🎪.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📫 ¿Hablamos?</h2>
+Si tienes ideas, sugerencias, o quieres unirte a algo loco, aquí estoy.
+
+***
+<br/>🧠 *“No hay error tan grave que no se pueda comentar con # TODO arreglar esto luego”*
